@@ -1,0 +1,22 @@
+{
+  "name": "testing-javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoya7076/testing-javascript-fundamentals.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naoya7076/testing-javascript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/naoya7076/testing-javascript-fundamentals#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
